@@ -1,7 +1,5 @@
 ## 𝙃𝙞, 𝙩𝙝𝙞𝙨 𝙞𝙨 𝒓𝒖𝒇𝒖𝒔 𝒍𝒊𝒖.  𝑨 𝒔𝒑𝒊𝒓𝒊𝒕𝒖𝒂𝒍 𝒈𝒖𝒚🤓.
-❤𝙄 𝙡𝙞𝙠𝙚 𝙩𝙤 𝙗𝙚 𝙞𝙣 𝙩𝙝𝙚 𝙘𝙤𝙡𝙤𝙧𝙛𝙪𝙡 𝙨𝙪𝙣𝙡𝙞𝙜𝙝𝙩
-
-![查看源图像](https://rufuspic.oss-cn-chengdu.aliyuncs.com/markdown_imgs/OIP.3ZQJymE_IEVY_957oy2uXwAAAA)
+❤ 𝙗𝙚𝙞𝙣𝙜 𝙞𝙣 𝙩𝙝𝙚 𝙘𝙤𝙡𝙤𝙧𝙛𝙪𝙡 𝙨𝙪𝙣𝙡𝙞𝙜𝙝𝙩
 
 <!-- Introduction -->
 
