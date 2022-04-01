@@ -1,4 +1,4 @@
-## Hi, this is 𝒀𝒊𝒚𝒂𝒏𝒈 𝑺𝒖𝒏. :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=syy11cn)
+## Hi, my name is 𝒓𝒖𝒇𝒖𝒔 𝒍𝒊𝒖. :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=comethx)
 
 <!-- Introduction -->
 
@@ -9,6 +9,6 @@
 
 <!-- Github Stats -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syy11cn&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comethx&show_icons=true)
 
-![](https://hit.yhype.me/github/profile?user_id=57290456)
+![](https://hit.yhype.me/github/profile?user_id=71600334)
