@@ -1,4 +1,4 @@
-## 👋Hi, my name is rufus
+## 👋Hi, my name is Rufus
 
 - 💼 I am currently working at **SmartX** as an intern Engineer.
 - 🏫 I am also a student from **UESTC**, majoring in software engineering.
