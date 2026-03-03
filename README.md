@@ -1,8 +1,11 @@
-## 👋Hi, my name is Rufus
+# 👋 Hi, I'm Ziyang Liu
 
-- 💼 I am currently working at **SmartX** as an intern Engineer.
-- 🏫 I am also a student from **UESTC**, majoring in software engineering.
-- 💻 I used to be a **backend** developer but now I focus on **virtualization and infrastructure**,  with the support of virtualization components such as **kvm**, **qemu**, **libvirt**, etc.
-- 🏠 This is my [blog.](https://t6t.xyz)
+Software engineer with experience at [**SmartX**](https://www.smartx.com/hk-mo/) and [**ByteDance**](https://www.bytedance.com/en/).
 
-![rufus' GitHub stats](https://github-readme-stats.vercel.app/api?username=comethx&border_color=2e4058)
+My work has mainly focused on **virtualization**, **infrastructure**, **VM migration**, and **low-level systems debugging**.
+
+I’m also interested in **AI infrastructure** and **blockchain systems**.
+
+🎓 [UESTC](https://www.uestc.edu.cn/)
+
+📫 [ziyang.liu.r@outlook.com](mailto:ziyang.liu.r@outlook.com)
