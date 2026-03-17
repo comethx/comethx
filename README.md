@@ -56,6 +56,7 @@
 <div align="center">
 
 [![site](https://img.shields.io/badge/ziyangliu--666.github.io-000?style=flat-square&logo=vercel&logoColor=white)](https://ziyangliu-666.github.io)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziyang-liu-22615823b/)
 [![email](https://img.shields.io/badge/ziyang.liu.r@outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:ziyang.liu.r@outlook.com)
 
 </div>
