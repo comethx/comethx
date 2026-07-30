@@ -45,9 +45,20 @@
 
 </td><td valign="top" width="45%">
 
-<img src="https://github-readme-stats-vert-chi-13.vercel.app/api?username=ziyangliu-666&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="100%" src="https://github-readme-stats-vert-chi-13.vercel.app/api?username=ziyangliu-666&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+
+**Featured**
+
+<a href="https://github.com/ziyangliu-666/paperstack"><img width="100%" src="https://github-readme-stats-vert-chi-13.vercel.app/api/pin?username=ziyangliu-666&repo=paperstack&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/ziyangliu-666/EasyTrainer"><img width="100%" src="https://github-readme-stats-vert-chi-13.vercel.app/api/pin?username=ziyangliu-666&repo=EasyTrainer&theme=github_dark&hide_border=true" /></a>
 
 </td></tr></table>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ziyangliu-666&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C3D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
 
 <br/>
 
