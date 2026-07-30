@@ -50,7 +50,7 @@
 **Featured**
 
 <a href="https://github.com/ziyangliu-666/paperstack"><img width="100%" src="https://github-readme-stats-vert-chi-13.vercel.app/api/pin?username=ziyangliu-666&repo=paperstack&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/ziyangliu-666/EasyTrainer"><img width="100%" src="https://github-readme-stats-vert-chi-13.vercel.app/api/pin?username=ziyangliu-666&repo=EasyTrainer&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/ziyangliu-666/sae-feature-traces"><img width="100%" src="https://github-readme-stats-vert-chi-13.vercel.app/api/pin?username=ziyangliu-666&repo=sae-feature-traces&theme=github_dark&hide_border=true" /></a>
 
 </td></tr></table>
 
