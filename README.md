@@ -56,14 +56,6 @@
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ziyangliu-666&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C3D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 [![site](https://img.shields.io/badge/ziyangliu--666.github.io-000?style=flat-square&logo=vercel&logoColor=white)](https://ziyangliu-666.github.io)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziyang-liu-22615823b/)
 [![email](https://img.shields.io/badge/ziyang.liu.r@outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:ziyang.liu.r@outlook.com)
